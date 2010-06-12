@@ -1,7 +1,7 @@
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "thumbnailer"
+    gemspec.name = "thumbnailer-ruby"
     gemspec.summary = "Get thumbnails from various sites"
     gemspec.description = "thumbnailer is a Ruby library for getting thumbnail images from various sites with idiotic artificial intelligence."
     gemspec.email = "yalcin"

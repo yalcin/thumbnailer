@@ -44,7 +44,7 @@ here is an example:
 Download
 --------
 
-- [sudo] gem i thumbnailer
+- [sudo] gem i thumbnailer-ruby
 - http://github.com/yalcin/thumbnailer
 - git clone git://github.com/yalcin/thumbnailer.git
 
