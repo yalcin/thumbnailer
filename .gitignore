@@ -1,0 +1,5 @@
+.bundle
+pkg
+ruby-imdb*.gem
+.yardoc
+doc
