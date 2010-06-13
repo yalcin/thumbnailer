@@ -16,7 +16,7 @@ require "thumbnailer/sites/vimeo"
 require "thumbnailer/sites/websnapr"
 
 SITES = {"youtube\..*?\/watch" => Thumbnailer::YouTube,
-         "flickr" => Thumbnailer::Flickr,
+         "flickr\..*?" => Thumbnailer::Flickr,
          "video\.google\..*?\/videoplay" => Thumbnailer::VideoGoogle,
          "twitpic\.com\/.*?(?!\..*?)" => Thumbnailer::TwitPic,
          "dailymotion\.com\/video" => Thumbnailer::Dailymotion,
